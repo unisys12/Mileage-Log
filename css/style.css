@@ -1,0 +1,36 @@
+body {
+	width: 320px;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.hidden {	
+	display: none;
+}
+
+.content {
+	background: #EEEEEE;	
+}
+
+.content a {
+	text-decoration: none;
+}
+
+.calander td {
+	text-align: center;
+}
+
+.form {
+	width: 250px;
+	line-height: 1.5em;
+}
+
+.form #text{
+	width: 150px;
+	float: right;
+}
+
+.form label {
+	float: left;
+}
